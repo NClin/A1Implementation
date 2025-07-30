@@ -4,9 +4,7 @@ A defensive cybersecurity tool that uses LLMs to automatically analyze smart con
 
 Implements the "A1" security tool described at: https://arxiv.org/abs/2507.05558
 
-The A1 security tool targets a smart contract and uses an agent extract the smart contract, analyze the source, iteratively test potential exploits in a Foundry execution environment, and assess the potential revenue of a successful exploit.
-
-See the paper for 
+The A1 security tool targets a smart contract and uses an agent extract the smart contract, analyze the source, iteratively test potential exploits in a Foundry execution environment with consistently-constructed context, and assess the potential revenue of a successful exploit.
 
 **FOR DEFENSIVE USE ONLY** - This tool is intended for:
 - Auditing contracts you own or have permission to test
