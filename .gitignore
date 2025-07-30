@@ -6,3 +6,4 @@ price_cache/*
 */__pycache__/*
 .claude
 venv/*
+*.log
