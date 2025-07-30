@@ -1,12 +1,18 @@
-# A1 Smart Contract Security Analysis Tool
+# "A1" Smart Contract Security Analysis Tool
 
 A defensive cybersecurity tool that uses LLMs to automatically analyze smart contracts for vulnerabilities. This implementation is based on the A1 research paper for internal security testing purposes, and achieves similar results.
 
-## ⚠️ Important Notice
+Implements the "A1" security tool described at: https://arxiv.org/abs/2507.05558
+
+The A1 security tool targets a smart contract and uses an agent extract the smart contract, analyze the source, iteratively test potential exploits in a Foundry execution environment, and assess the potential revenue of a successful exploit.
+
+See the paper for 
 
 **FOR DEFENSIVE USE ONLY** - This tool is intended for:
-- Testing your own smart contracts before deployment
-- Security auditing of contracts you own or have permission to test
+- Auditing contracts you own or have permission to test
+- Academic purposes
+
+The original paper performs extensive revenue cost/benefit analysis, however this implementation does not optimize context or accurately gauge revenue as that would consistute a full automated attack vector. As the paper's authors didn't release their code, I felt it unwise to continue to reproduce that aspect of the paper.
 
 ## Installation
 
@@ -73,6 +79,11 @@ Create a JSON file with multiple contracts:
 Run batch analysis:
 ```bash
 python main.py --contract-list contracts.json
+```
+
+Run VERITE dataset (target ~62% success as per implementation paper)
+```bash
+python main.py --contract-list verite_validation_contracts.json
 ```
 
 ## Core Functionality
