@@ -1,0 +1,7 @@
+runs/*
+validation_runs/*
+.env
+docs/*
+price_cache/*
+*/__pycache__/*
+.claude

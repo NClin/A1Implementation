@@ -1,0 +1,48 @@
+# A1 System Requirements
+
+# Core dependencies
+asyncio-throttle>=1.0.2
+aiohttp>=3.8.0
+web3>=6.0.0,<7.0.0
+eth-account>=0.8.0
+eth-utils>=2.0.0
+eth-abi>=4.0.0
+python-dotenv>=1.0.0
+
+# LLM Integration  
+openai>=1.0.0
+google-generativeai>=0.3.0
+anthropic>=0.7.0
+
+# Blockchain Tools
+py-solc-x>=2.0.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+dataclasses-json>=0.5.0
+
+# Development & Testing
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Infrastructure  
+redis>=4.5.0
+psycopg2-binary>=2.9.0
+sqlalchemy>=2.0.0
+
+# Logging & Monitoring
+structlog>=23.0.0
+prometheus-client>=0.17.0
+
+# Security
+cryptography>=40.0.0
+pycryptodome>=3.18.0
+
+# Optional: Foundry integration (install separately)
+# foundry-rs (install via: curl -L https://foundry.paradigm.xyz | bash)
+
+# Optional: For advanced analysis
+# slither-analyzer>=0.9.0  # Uncomment if you want static analysis 
