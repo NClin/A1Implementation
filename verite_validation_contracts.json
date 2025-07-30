@@ -1,0 +1,218 @@
+[
+  {
+    "chain_id": 1,
+    "address": "0x418C24191aE947A78C99fDc0e45a1f96Afb254BE",
+    "block_number": 15767837,
+    "name": "uerii"
+  },
+  {
+    "chain_id": 56,
+    "address": "0x9A1aEF8C9ADA4224aD774aFdaC07C24955C92a54",
+    "block_number": 27960445,
+    "name": "melo"
+  },
+  {
+    "chain_id": 56,
+    "address": "0xf3F1aBae8BfeCA054B330C379794A7bf84988228",
+    "block_number": 28637846,
+    "name": "fapen"
+  },
+  {
+    "chain_id": 56,
+    "address": "0xc342774492b54ce5F8ac662113ED702Fc1b34972",
+    "block_number": 22315679,
+    "name": "bego"
+  },
+  {
+    "chain_id": 1,
+    "address": "0xA1cE40702E15d0417a6c74D0bAB96772F36F4E99",
+    "block_number": 20103189,
+    "name": "wifcoin"
+  },
+  {
+    "chain_id": 1,
+    "address": "0xf40593A22398c277237266A81212f7D41023b630",
+    "block_number": 17057419,
+    "name": "swapos"
+  },
+  {
+    "chain_id": 56,
+    "address": "0x2C25aEe99ED08A61e7407A5674BC2d1A72B5D8E3",
+    "block_number": 27620320,
+    "name": "axioma"
+  },
+  {
+    "chain_id": 56,
+    "address": "0xED56784bC8F2C036f6b0D8E04Cb83C253e4a6A94",
+    "block_number": 29668034,
+    "name": "bamboo"
+  },
+  {
+    "chain_id": 56,
+    "address": "0x42981d0bfbAf196529376EE702F2a9Eb9092fcB5",
+    "block_number": 26854757,
+    "name": "safemoon"
+  },
+  {
+    "chain_id": 56,
+    "address": "0x061944c0f3c2d7DABafB50813Efb05c4e0c952e1",
+    "block_number": 44555337,
+    "name": "pledge"
+  },
+  {
+    "chain_id": 56,
+    "address": "0xdDc0CFF76bcC0ee14c3e73aF630C029fe020F907",
+    "block_number": 23695904,
+    "name": "aes"
+  },
+  {
+    "chain_id": 1,
+    "address": "0x56FF4AfD909AA66a1530fe69BF94c74e6D44500C",
+    "block_number": 20175261,
+    "name": "apemaga"
+  },
+  {
+    "chain_id": 1,
+    "address": "0x33B860FC7787e9e4813181b227EAfFa0Cada4C73",
+    "block_number": 22358982,
+    "name": "aventa"
+  },
+  {
+    "chain_id": 56,
+    "address": "0xc6Cb12df4520B7Bf83f64C79c585b8462e18B6Aa",
+    "block_number": 25230702,
+    "name": "bevo"
+  },
+  {
+    "chain_id": 56,
+    "address": "0xc54AAecF5fA1b6c007d019a9d14dFb4a77CC3039",
+    "block_number": 29304627,
+    "name": "bunn"
+  },
+  {
+    "chain_id": 56,
+    "address": "0xf3E1449DDB6b218dA2C9463D4594CEccC89343460",
+    "block_number": 28708273,
+    "name": "cellframe"
+  },
+  {
+    "chain_id": 1,
+    "address": "0x7b190a928Aa76EeCE5Cb3E0f6b3BdB24fcDd9b4f",
+    "block_number": 17484161,
+    "name": "depusdt"
+  },
+  {
+    "chain_id": 56,
+    "address": "0x2B806e6D78D8111dd09C58943B9855910baDe005",
+    "block_number": 24349821,
+    "name": "dfs"
+  },
+  {
+    "chain_id": 56,
+    "address": "0xE8A290c6Fc6Fa6C0b79C9cfaE1878d195aeb59aF",
+    "block_number": 37795991,
+    "name": "fil314"
+  },
+  {
+    "chain_id": 1,
+    "address": "0x52d69c67536f55EfEfe02941868e5e762538dBD6",
+    "block_number": 19213946,
+    "name": "game"
+  },
+  {
+    "chain_id": 56,
+    "address": "0x37e42B961AE37883BAc2fC29207A5F88eFa5db66",
+    "block_number": 31108558,
+    "name": "gss"
+  },
+  {
+    "chain_id": 56,
+    "address": "0x32B166e082993Af6598a89397E82e123ca44e74E",
+    "block_number": 22337425,
+    "name": "health"
+  },
+  {
+    "chain_id": 56,
+    "address": "0xC75aa1Fa199EaC5adaBC832eA4522Cff6dFd521A",
+    "block_number": 22280853,
+    "name": "hpay"
+  },
+  {
+    "chain_id": 56,
+    "address": "0x4E87880A72f6896E7e0a635A5838fFc89b13bd17",
+    "block_number": 23474460,
+    "name": "mbc"
+  },
+  {
+    "chain_id": 56,
+    "address": "0xb5a0Ce3Acd6eC557d39aFDcbC93B07a1e1a9e3fa",
+    "block_number": 27470678,
+    "name": "olife"
+  },
+  {
+    "chain_id": 56,
+    "address": "0x29b2525e11BC0B0E9E59f705F318601eA6756645",
+    "block_number": 22252045,
+    "name": "pltd"
+  },
+  {
+    "chain_id": 56,
+    "address": "0x26f1457f067bF26881F311833391b52cA871a4b5",
+    "block_number": 23649423,
+    "name": "rfb"
+  },
+  {
+    "chain_id": 56,
+    "address": "0x6bc9b4976ba6f8C9574326375204eE469993D038",
+    "block_number": 23467515,
+    "name": "seama"
+  },
+  {
+    "chain_id": 1,
+    "address": "0x9e52dB44d62A8c9762FA847Bd2eBa9d0585782d1",
+    "block_number": 18041975,
+    "name": "sgeth"
+  },
+  {
+    "chain_id": 56,
+    "address": "0x10bc28d2810dD462E16facfF18f78783e859351b",
+    "block_number": 20969095,
+    "name": "shadowfi"
+  },
+  {
+    "chain_id": 56,
+    "address": "0x70E1bc7E53EAa96B74Fad1696C29459829509bE2",
+    "block_number": 30165901,
+    "name": "sut"
+  },
+  {
+    "chain_id": 1,
+    "address": "0x047D41F2544B7F63A8e991aF2068a363d210d6Da",
+    "block_number": 20836583,
+    "name": "unibtc"
+  },
+  {
+    "chain_id": 1,
+    "address": "0x35a254223960c18B69C0526c46B013D022E93902",
+    "block_number": 16433820,
+    "name": "upswing"
+  },
+  {
+    "chain_id": 56,
+    "address": "0x9B9baD4c6513E0fF3fB77c739359D59601c7cAfF",
+    "block_number": 6920000,
+    "name": "uranium"
+  },
+  {
+    "chain_id": 1,
+    "address": "0x4306B12F8e824cE1fa9604BbD88f2AD4f0FE3c54",
+    "block_number": 17826202,
+    "name": "uwerx"
+  },
+  {
+    "chain_id": 56,
+    "address": "0xe7748FCe1D1e2f2Fd2dDdB5074bD074745dDa8Ea",
+    "block_number": 17132514,
+    "name": "zeed"
+  }
+]
